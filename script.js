@@ -20,7 +20,7 @@ var firstname = artistname[0];
 var lastIndex = artistname.length - 1;
 var joinedName = artistname.join(", ");
 var poppedName = artistname.pop();
-var indexOfName = artistname.indexOf("Kyriacos");
+var indexOfKyriacos = artistname.indexOf("Kyriacos");
 
 // Date methods
 var CurrentDate = new Date();
